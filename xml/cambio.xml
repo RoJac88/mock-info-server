@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<financeiro data="2024-10-14 09:55:53" moeda="R$">
+  <item>
+    <nome>Euro</nome>
+    <valor>6,15</valor>
+    <variacao>0,02522935</variacao>
+    <variacao_percentual>+0,41%</variacao_percentual>
+    <status>alta</status>
+  </item>
+  <item>
+    <nome>Dólar</nome>
+    <valor>5,64</valor>
+    <variacao>0,03835812</variacao>
+    <variacao_percentual>+0,68%</variacao_percentual>
+    <status>alta</status>
+  </item>
+</financeiro>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<transito data="2024-10-14 09:50:05">
+  <data_atualizacao>2024-10-14 09:50:05</data_atualizacao>
+  <estado>SP</estado>
+  <fonte ativo="1">
+    <nome><![CDATA[CET]]></nome>
+    <km_lentidao>207</km_lentidao>
+    <semaforo>amarelo</semaforo>
+    <data>2024-10-14 09:50:05</data>
+  </fonte>
+  <corredores/>
+</transito>
